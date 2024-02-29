@@ -1,0 +1,178 @@
+.nav.navbar-nav{
+	
+    margin-left:270px;
+	font-size:15px;
+	font-weight:bold;
+	
+	
+}
+.nav.navbar-nav li a{
+  
+  display: block;
+  padding: 15px;
+  text-decoration: none;
+  color:white;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0 10px;
+
+}
+
+#welcome{
+	margin-bottom:100px;
+	
+}
+#wrap{
+	padding:30px;
+	background-color:#9f9fa0;
+}
+
+#header{
+	height:100px;
+	background:#545252;
+}
+
+
+#navy{
+	height:50px;
+    background-color:#000000;
+}
+
+
+.image{
+	height:400px;
+	position: relative;
+}
+.text{
+	color:white;
+	font-style: MS Outlook;
+}
+.text h3 {
+   position: absolute;
+   top: 150px;
+   margin-left:45%;
+   color:white;
+   font-family:Monotype Corsiva;
+}
+.text h1{
+   position: absolute;
+   top: 200px;
+   left:450px;
+   color:white;
+   font-family:Monotype Corsiva;
+}
+.section-heading h2{
+	text-align:center;
+	color:white;
+	font-family:Monotype Corsiva;
+	
+}
+.btn.btn-danger{
+   position: absolute;
+   top: 300px;
+   left:570px;
+   border:2px solid white;
+   
+}
+.h-find-m1{
+	margin-top:150px;
+	
+	
+}
+form{
+	margin-top:25px;
+}
+.btn.btn-info{
+	width:200px;
+}
+#featured{
+	height:410px;
+	background-color:white;
+	margin-top:20px;
+}
+#align{
+	margin-left:300px;
+	
+}
+#vehicle{
+	height:100px;
+	background-color:white;
+	margin-bottom:-20px;
+}
+#veh{
+	font-family:Monotype Corsiva;
+    margin-left:500px;
+	margin-top:30px;
+	float:left;
+	color:#d60c0c;
+}
+
+
+
+
+
+
+#img2{
+	margin-left:40px;
+	float:left;
+}
+#p{
+	color:white;
+	text-align:justify;
+	margin-left:50px;
+	margin-right:50px;
+    padding:5px;
+	font-family:Book Antiqua;
+	font-size:15px;
+	
+}
+.btn.btn-primary.btn-sm.font-primary{
+	margin-left:280px;
+	border: 2px solid;
+    border-radius: 20px;
+	margin-top:20px;
+	width:100px;
+	
+}
+.font.section-title{
+	text-align:center;
+	margin-top:80px;
+	color:white;
+	font-family:Monotype Corsiva;
+}
+#about{
+	width:650px;
+	height:350px;
+	float:right;
+}
+#map{
+	height:400px;
+	background-color:white;
+	margin-top:350px;
+	
+}
+.data-dealer-address{
+	color:white;
+}
+.font-primary.dealer-header.data-dealer-header{
+	color:white;
+}
+#address{
+	height:280px;
+	margin-top:60px;
+	
+}
+#public{
+	color:white;
+	font-family:Monotype Corsiva;
+	text-align:center;
+	
+}
+#glyph{
+	text-align:center;
+}
+
+#upper{
+	margin-top:-100px;
+	margin-left:800px;
+}
